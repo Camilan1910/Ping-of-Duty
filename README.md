@@ -11,6 +11,8 @@ In the fast-paced world of digital engagement, you can't afford to waste resourc
 
 This lightweight, high-speed reconnaissance tool allows you, the Commander, to verify a target's operational status before committing to a full-scale connection using the standard ping command.
 
+![screenshot}(https://github.com/HollandHards/Ping-of-Duty/blob/main/ping-of-duty_screenshot.png?raw=true)
+
 ## Operations
 * **DEPLOY PING:** Dispatches a single operative (ICMP packet) to the target coordinates (hostname or IP).
 

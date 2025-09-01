@@ -1,0 +1,10 @@
+52.85.132.129   Netflix.com
+74.6.143.25     Yahoo.com
+104.244.42.1     X.com (Twitter)
+142.250.180.14  Google.com
+142.250.180.142 YouTube.com
+157.240.22.35   Facebook.com
+157.240.22.174  Instagram.com
+176.32.103.205  Amazon.com
+208.80.154.224  Wikipedia.org
+220.181.38.148  Baidu.com

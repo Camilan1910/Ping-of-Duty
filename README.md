@@ -36,7 +36,7 @@ _Stop guessing. Start pinging. Oorah._
 
 
 
-Here is a simple footnote[^1].
+Here is a simple footnote [^1].
 
 A footnote can also have multiple lines[^2].  
 

@@ -3,7 +3,7 @@
 
 ![logo](https://github.com/HollandHards/Ping-of-Duty/blob/main/ping-of-duty_logo.png?raw=true)
 
-![Screenshot of Ping-Of-Duty penguin](https://raw.githubusercontent.com/HollandHards/Ping-of-Duty/refs/heads/main/ping-of-duty_icon2.png?token=GHSAT0AAAAAADKIWUIOMIKGT2SZXUUJBPRC2FVJSAQ)
+![Screenshot of Ping-Of-Duty penguin](https://github.com/HollandHards/Ping-of-Duty/blob/main/ping-of-duty_boxart.png?raw=true)
 
 ## Ping-Of-Duty
 Your network is a battlefield. Don't go in blind.
